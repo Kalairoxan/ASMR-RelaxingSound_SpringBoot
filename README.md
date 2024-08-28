@@ -8,8 +8,8 @@ A Spring Boot application for playing ASMR relaxing sounds. This project allows 
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Exception Handling](#exception-handling)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Features
 
